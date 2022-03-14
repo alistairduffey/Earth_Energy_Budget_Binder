@@ -2,3 +2,7 @@ name: Earth_Energy_Budget_Environment
 channels:
   - conda-forge
 dependencies:
+  - xarray
+  - numpy
+  - matplotlib
+  - climlab
